@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj": {}
+    "C:\\HackthomC#Ufc\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj": {}
   },
   "projects": {
-    "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj": {
+    "C:\\HackthomC#Ufc\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
+        "projectUniqueName": "C:\\HackthomC#Ufc\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
         "projectName": "FeedbackMicroSystem",
-        "projectPath": "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
-        "packagesPath": "C:\\Users\\Coti Maq-07\\.nuget\\packages\\",
-        "outputPath": "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\obj\\",
+        "projectPath": "C:\\HackthomC#Ufc\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
+        "packagesPath": "C:\\Users\\Coti - 05\\.nuget\\packages\\",
+        "outputPath": "C:\\HackthomC#Ufc\\FeedbackMicroSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Coti Maq-07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Coti - 05\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
