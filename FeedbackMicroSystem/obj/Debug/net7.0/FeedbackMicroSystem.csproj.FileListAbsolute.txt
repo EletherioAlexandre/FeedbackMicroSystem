@@ -64,3 +64,5 @@ C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMi
 C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.pdb
 C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.genruntimeconfig.cache
 C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\ref\FeedbackMicroSystem.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\Newtonsoft.Json.dll

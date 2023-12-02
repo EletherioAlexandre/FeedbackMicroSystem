@@ -36,3 +36,4 @@ C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMi
 C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.pdb
 C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.genruntimeconfig.cache
 C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\ref\TratativaDados.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\Newtonsoft.Json.dll
