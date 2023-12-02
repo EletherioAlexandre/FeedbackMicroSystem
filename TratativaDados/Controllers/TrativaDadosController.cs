@@ -11,14 +11,18 @@ namespace TratativaDados.Controllers
         private readonly HttpClient _httpClient;
         string apiUrl = "http://localhost:5159/api/Feedback";
 
-        public TrativaDadosController(HttpClient httpClient)
+        public TrativaDadosController()
         {
-            _httpClient = httpClient;
+            _httpClient = new HttpClient();
         }
 
-        [HttpPost]
-        public IActionResult TratativaDados(Feedback feedback)
+        [HttpGet]
+        public async Task <IActionResult> ConsultaDados()
         {
+            var response = await _httpClient.GetAsync(apiUrl);
+
+            // trataria os dados com a Inteligência Artificial, retornaria a string abaixo:
+
             string insightsText = @"
             Analisando os feedbacks fornecidos, alguns insights generalistas podem ser extraídos para orientar melhorias gerais nos atendimentos da loja:
 
@@ -42,13 +46,8 @@ namespace TratativaDados.Controllers
 
             Em resumo, a loja pode aprimorar sua eficiência na entrega, investir na qualidade da embalagem, diversificar o menu e garantir uma apresentação visual atraente. Monitorar continuamente a qualidade dos alimentos e a experiência de entrega, além de utilizar feedbacks específicos para orientar melhorias, são abordagens estratégicas para elevar a satisfação geral dos clientes.";
 
-            return Ok(insightsText);
-        }
 
-        [HttpGet]
-        public async Task <IActionResult> ConsultaDados()
-        {
-            var response = await _httpClient.GetAsync(apiUrl);
+           // _httpClient.PostAsync(apiUrl, insightsText)
 
             return Ok(response);
         }
