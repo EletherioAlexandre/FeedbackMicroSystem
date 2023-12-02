@@ -1,27 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj": {}
+    "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj": {}
   },
   "projects": {
-    "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj": {
+    "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
         "projectName": "FeedbackMicroSystem",
-        "projectPath": "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
-        "packagesPath": "C:\\Users\\Coti Maq-07\\.nuget\\packages\\",
-        "outputPath": "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\obj\\",
+        "projectPath": "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
+        "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\FeedbackMicroSystem\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Coti Maq-07\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
