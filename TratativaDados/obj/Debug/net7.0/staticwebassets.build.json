@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "jXPAouupZnP5ITBnJ4sz+PfVsfzfMZ65Y9xdfYIb8U0=",
+  "Source": "TratativaDados",
+  "BasePath": "_content/TratativaDados",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\HackthomC#Ufc\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
+      "Version": 2,
+      "Source": "FeedbackMicroSystem",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
