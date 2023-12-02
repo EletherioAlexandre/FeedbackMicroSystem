@@ -107,6 +107,23 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "FeedbackMicroSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "7.0.12",
+          "Swashbuckle.AspNetCore": "6.5.0"
+        },
+        "compile": {
+          "bin/placeholder/FeedbackMicroSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FeedbackMicroSystem.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -460,10 +477,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "FeedbackMicroSystem/1.0.0": {
+      "type": "project",
+      "path": "../FeedbackMicroSystem/FeedbackMicroSystem.csproj",
+      "msbuildProject": "../FeedbackMicroSystem/FeedbackMicroSystem.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "FeedbackMicroSystem >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.9",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -504,7 +527,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj": {
+              "projectPath": "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -548,5 +575,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Aviso como Erro: Downgrade de pacote detectado: Microsoft.AspNetCore.OpenApi de 7.0.12 para 7.0.9. Referencie o pacote diretamente do projeto para selecionar uma versão diferente. \r\n TratativaDados -> FeedbackMicroSystem -> Microsoft.AspNetCore.OpenApi (>= 7.0.12) \r\n TratativaDados -> Microsoft.AspNetCore.OpenApi (>= 7.0.9)",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
