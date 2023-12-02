@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
 
 namespace FeedbackMicroSystem.Controllers
 {
@@ -9,10 +9,10 @@ namespace FeedbackMicroSystem.Controllers
     public class FeedbackController : ControllerBase
     {
         // GET: api/<FeedbackController>
-        [HttpGet]
-        public IEnumerable<string> Get()
+        [HttpPost]
+        public IActionResult Post()
         {
-            return new string[] { "value1", "value2" };
+            return Ok();
         }
     }
 }

@@ -31,3 +31,36 @@ C:\hackatonUFCWorkspace\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0
 C:\hackatonUFCWorkspace\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.pdb
 C:\hackatonUFCWorkspace\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.genruntimeconfig.cache
 C:\hackatonUFCWorkspace\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\ref\FeedbackMicroSystem.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\appsettings.json
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\FeedbackMicroSystem.exe
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\FeedbackMicroSystem.deps.json
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\FeedbackMicroSystem.runtimeconfig.json
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\FeedbackMicroSystem.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\FeedbackMicroSystem.pdb
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\staticwebassets\msbuild.FeedbackMicroSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.FeedbackMicroSystem.props
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FeedbackMicroSystem.props
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FeedbackMicroSystem.props
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\scopedcss\bundle\FeedbackMicroSystem.styles.css
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.csproj.CopyComplete
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\refint\FeedbackMicroSystem.dll
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.pdb
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\FeedbackMicroSystem.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\FeedbackMicroSystem\obj\Debug\net7.0\ref\FeedbackMicroSystem.dll
