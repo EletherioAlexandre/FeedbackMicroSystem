@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "tsAnA+QYsUrs/6IzUh5gP7n2dRwaaWkg7PYB3PfzkYk=",
+  "Hash": "MrrBL4q9e992EfVzo89wDnTx9aTFFW00t/NVUnjRZLo=",
   "Source": "TratativaDados",
   "BasePath": "_content/TratativaDados",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
+      "Identity": "C:\\hackatonUFCWorkspace\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
       "Version": 2,
       "Source": "FeedbackMicroSystem",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

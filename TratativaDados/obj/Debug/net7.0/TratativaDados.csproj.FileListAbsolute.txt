@@ -37,3 +37,42 @@ C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMi
 C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.genruntimeconfig.cache
 C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\ref\TratativaDados.dll
 C:\Users\vinic\OneDrive\Ambiente de Trabalho\FeedbackMicroSystem-main\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\appsettings.Development.json
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\appsettings.json
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\FeedbackMicroSystem.deps.json
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\FeedbackMicroSystem.runtimeconfig.json
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\FeedbackMicroSystem.exe
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\TratativaDados.exe
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\TratativaDados.deps.json
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\TratativaDados.runtimeconfig.json
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\TratativaDados.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\TratativaDados.pdb
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\FeedbackMicroSystem.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\bin\Debug\net7.0\FeedbackMicroSystem.pdb
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.csproj.AssemblyReference.cache
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.AssemblyInfoInputs.cache
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.AssemblyInfo.cs
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.csproj.CoreCompileInputs.cache
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.MvcApplicationPartsAssemblyInfo.cs
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.MvcApplicationPartsAssemblyInfo.cache
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\staticwebassets\msbuild.TratativaDados.Microsoft.AspNetCore.StaticWebAssets.props
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\staticwebassets\msbuild.build.TratativaDados.props
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TratativaDados.props
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TratativaDados.props
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\staticwebassets.pack.json
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\staticwebassets.build.json
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\staticwebassets.development.json
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\scopedcss\bundle\TratativaDados.styles.css
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.csproj.CopyComplete
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\refint\TratativaDados.dll
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.pdb
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\TratativaDados.genruntimeconfig.cache
+C:\hackatonUFCWorkspace\FeedbackMicroSystem\TratativaDados\obj\Debug\net7.0\ref\TratativaDados.dll
