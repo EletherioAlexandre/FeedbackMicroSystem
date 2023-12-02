@@ -1,27 +1,18 @@
 ﻿using FeedbackMicroSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 
-
-
 namespace FeedbackMicroSystem.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class FeedbackController : ControllerBase
     {
-        private readonly HttpClient _httpClient;
-
-        public FeedbackController(HttpClient httpClient)
-        {
-            _httpClient = httpClient;
-        }
-
         /// <summary>
         /// Método para buscar dados de Reviews na API do Ifood
         /// </summary>
         /// <returns>Objeto com todas as informações sobre as avaliações de uma determinada loja</returns>
         [HttpGet]
-        public async Task<IActionResult> GetReviews()
+        public IActionResult GetReviews()
         {
             List<Feedback> feedback = new List<Feedback>
             {
