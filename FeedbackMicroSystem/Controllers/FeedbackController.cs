@@ -1,7 +1,7 @@
 ﻿using FeedbackMicroSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
 
 namespace FeedbackMicroSystem.Controllers
 {
@@ -177,7 +177,7 @@ namespace FeedbackMicroSystem.Controllers
                     },
                     Score = 4.0,
                     SurveyId = "s3"
-                } 
+                }
             };
             return Ok(feedback);
         }
