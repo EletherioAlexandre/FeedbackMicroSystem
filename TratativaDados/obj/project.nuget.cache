@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+BNM3b9q8LAfpekkUu0/tZ77L76Cenbw1G68SvbMFgG033Fk3euGzDlXW6GZ9tTzVxoi/Zf+CKu0jFrdjagENg==",
-  "success": false,
+  "dgSpecHash": "FIFBTirTXKsvSW6EUZoafcP5ASaeEcAeNB7AkBLDfcBvQ4mDzVnzOc78UyT1mqZ7GfmFNByoo+3sMp1+3t/1VA==",
+  "success": true,
   "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\TratativaDados\\TratativaDados.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
@@ -12,15 +12,5 @@
     "C:\\Users\\vinic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Aviso como Erro: Downgrade de pacote detectado: Microsoft.AspNetCore.OpenApi de 7.0.12 para 7.0.9. Referencie o pacote diretamente do projeto para selecionar uma versão diferente. \r\n TratativaDados -> FeedbackMicroSystem -> Microsoft.AspNetCore.OpenApi (>= 7.0.12) \r\n TratativaDados -> Microsoft.AspNetCore.OpenApi (>= 7.0.9)",
-      "libraryId": "Microsoft.AspNetCore.OpenApi",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

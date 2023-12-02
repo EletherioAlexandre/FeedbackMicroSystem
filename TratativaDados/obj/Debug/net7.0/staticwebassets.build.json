@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "tsAnA+QYsUrs/6IzUh5gP7n2dRwaaWkg7PYB3PfzkYk=",
+  "Source": "TratativaDados",
+  "BasePath": "_content/TratativaDados",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\vinic\\OneDrive\\Ambiente de Trabalho\\FeedbackMicroSystem-main\\FeedbackMicroSystem\\FeedbackMicroSystem\\FeedbackMicroSystem.csproj",
+      "Version": 2,
+      "Source": "FeedbackMicroSystem",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
