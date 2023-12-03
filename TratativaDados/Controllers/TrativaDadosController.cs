@@ -9,7 +9,8 @@ namespace TratativaDados.Controllers
     public class TrativaDadosController : Controller
     {
         private readonly HttpClient _httpClient;
-        string apiUrl = "http://localhost:5159/api/Feedback";
+        string apiUrl = "http://localhost:5201/api/Feedback";
+        private readonly string insightsApiUrl = "http://localhost:5201/api/FeedbackWhatsapp";
 
         public TrativaDadosController()
         {
@@ -46,8 +47,10 @@ namespace TratativaDados.Controllers
 
             Em resumo, a loja pode aprimorar sua eficiência na entrega, investir na qualidade da embalagem, diversificar o menu e garantir uma apresentação visual atraente. Monitorar continuamente a qualidade dos alimentos e a experiência de entrega, além de utilizar feedbacks específicos para orientar melhorias, são abordagens estratégicas para elevar a satisfação geral dos clientes.";
 
+            var insightsResponse = await _httpClient.PostAsync(insightsApiUrl, new StringContent(insightsText));
 
-           // _httpClient.PostAsync(apiUrl, insightsText)
+
+            // _httpClient.PostAsync(apiUrl, insightsText)
 
             return Ok(response);
         }
